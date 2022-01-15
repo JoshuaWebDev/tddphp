@@ -2,6 +2,8 @@
 
 Códigos criados como exercício do livro "Test Driven Development: Teste e Design no mundo real com PHP" de Mauricio Aniche e André Cardoso
 
+<img src="cover.jpeg" alt="Capa do Livro Test DrivenTest Driven Development: Teste e Design no mundo real com PHP de Mauricio Aniche e André Cardoso" title="Capa do Livro Test DrivenTest Driven Development: Teste e Design no mundo real com PHP de Mauricio Aniche e André Cardoso" />
+
 Referências:
 
 - ANICHE, Maurício; CARDOSO, André. _Test Driven Development: Teste e Design no Mundo Real com PHP_. Casa do Código, 2015.
