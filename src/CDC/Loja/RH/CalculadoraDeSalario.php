@@ -11,7 +11,7 @@ class CalculadoraDeSalario
     {
         if ($funcionario->getCargo() === TabelaCargos::DESENVOLVEDOR) {
             if ($funcionario->getSalario() > 3000) {
-                return 3200.0;
+                return $funcionario->getSalario() * 0.8;
             }
 
             return $funcionario->getSalario() * 0.9;

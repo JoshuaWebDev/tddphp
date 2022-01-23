@@ -5,7 +5,7 @@ namespace CDC\Exemplos;
 require "./vendor/autoload.php";
 
 use CDC\Exemplos\ConversorDeNumeroRomano;
-use PHPUnit_Framework_TestCase as PHPUnit;
+use PHPUnit\Framework\TestCase as PHPUnit;
 
 class ConversorDeNumeroRomanoTest extends PHPUnit
 {
